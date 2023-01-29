@@ -1,0 +1,10 @@
+
+node_modules
+/js/package-lock.json
+/package-lock.json
+/package.json
+
+/.vscode/settings.json
+/tools/kg_itemconfig.lua
+.idea
+
